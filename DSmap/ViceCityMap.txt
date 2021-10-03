@@ -1,0 +1,85 @@
+name node name node km
+North Point Mall,0,Malibu Club,1,19.36
+North Point Mall,0,Hardware Store 1,4,3.60
+North Point Mall,0,Pay 'n' Spray 1,5,7.68
+North Point Mall,0,Pizza,3,18.90
+Malibu Club,1,Police Station,2,4.35
+Malibu Club,1,Pizza,3,1.53
+Malibu Club,1,Country Club,6,14.16
+Malibu Club,1,North Point Mall,0,19.36
+Police Station,2,Malibu Club,1,4.35
+Police Station,2,Pizza,3,5.99
+Police Station,2,Vice Point,8,3.94
+Police Station,2,Washington Beach,10,12.9
+Police Station,2,Hardware Shop 2,9,4.30
+Police Station,2,Rafaels,14,8.23
+Police Station,2,Ocean View,15,12.75
+Pizza,3,Malibu Club,1,1.53
+Pizza,3,North Point Mall,0,18.90
+Pizza,3,Hardware Store 1,4,19.91
+Pizza,3,Pay 'n' Spray 1,5,10.49
+Pizza,3,Country Club,6,4.50
+Pizza,3,Vice Point,8,8.10
+Pizza,3,Police Station,2,5.99
+Hardware Store 1,4,Pay 'n' Spray 1,5,7.68
+Hardware Store 1,4,North Point Mall,0,3.60
+Hardware Store 1,4,Pizza,3,19.91
+Pay 'n' Spray 1,5,North Point Mall,0,13.12
+Pay 'n' Spray 1,5,Pizza,3,10.49
+Pay 'n' Spray 1,5,Country Club,6,2.57
+Pay 'n' Spray 1,5,Hardware Store 1,4,7.68
+Country Club,6,Pay 'n' Spray 1,5,2.57
+Country Club,6,Leaf Links,7,0.31
+Country CLub,6,Pizza,3,4.50
+Country CLub,6,Malibu Club,1,14.16
+Leaf Links,7,Country Club,6,0.31
+Vice Point,8,Pizza,3,8.10
+Vice Point,8,Police Station,2,3.94
+Vice Point,8,Hardware Shop 2,9,2.90
+Vice Point,8,Washington Beach,10,5.19
+Hardware Shop 2,9,Police Station,2,4.30
+Hardware Shop 2,9,Vice Point,8,2.90
+Hardware Shop 2,9,Hospital,11,9.43
+Hardware Shop 2,9,Washington Beach,10,1.30
+Hardware Shop 2,9,Hotel Harrison,13,12.53
+Washington Beach,10,Vice Point,8,5.19
+Washington Beach,10,Police Station,2,12.90
+Washington Beach,10,Hardware Shop 2,9,1.30
+Washington Beach,10,Hotel Harrison,13,14.61
+Washington Beach,10,Hospital,11,10.79
+Hospital,11,Hardware Shop 2,9,9.43
+Hospital,11,Washington Beach,10,10.79
+Hospital,11,Hotel Harrison,13,7.44
+Hospital,11,Washington Mall,12,1.25
+Hospital,11,Pay 'n' Spray 2,18,7.35
+Hospital,11,Ocean Bay Marina,17,12.84
+Washington Mall,12,Hospital,11,1.25
+Washington Mall,12,Pay 'n' Spray 2,18,0.85
+Washington Mall,12,Hotel Harrison,13,5.43
+Washington Mall,12,Rafaels,14,4.80
+Washington Mall,12,Ocean View,15,6.94
+Hotel Harrison,13,Hardware Shop 2,9,12.53
+Hotel Harrison,13,Rafaels,14,2.44
+Hotel Harrison,13,Washington Beach,10,14.61
+Hotel Harrison,13,Hospital,11,7.44
+Hotel Harrison,13,Washington Mall,12,5.43
+Rafaels,14,Hotel Harrison,13,2.44
+Rafaels,14,Ocean View,15,6.07
+Rafaels,14,Police Station,2,8.23
+Rafaels,14,Washington Mall,12,4.80
+Ocean View,15,Police Station,2,12.75
+Ocean View,15,Rafaels,14,3.96
+Ocean View,15,Washington Mall,12,6.94
+Ocean View,15,Pay 'n' Spray 2,18,5.18
+Ocean View,15,Ammunition,16,6.07
+Ocean View,15,Ocean Bay Marina,17,9.90
+Ammunition,16,Ocean View,15,6.07
+Ammunition,16,Ocean Bay Marina,17,2.17
+Ammunition,16,Pay 'n' Spray 2,18,3.58
+Ocean Bay Marina,17,Ocean View,15,9.90
+Ocean Bay Marina,17,Ammunition,16,2.17
+Ocean Bay Marina,17,Hospital,11,12.84
+Pay 'n' Spray 2,18,Hospital,11,7.35
+Pay 'n' Spray 2,18,Washington Mall,12,0.85
+Pay 'n' Spray 2,18,Ocean View,15,5.18
+Pay 'n' Spray 2,18,Ammunition,16,3.58
